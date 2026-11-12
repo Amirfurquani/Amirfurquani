@@ -38,7 +38,7 @@ Beyond AI/ML, I have a strong foundation in Data Structures and Algorithms, Obje
 
 ### 🏆 Beyond Engineering
 
-- 🥇 Best Paper Award – IEEE ICCUBEA 2025
+- 🥇 2 Times Best Paper Awards – IEEE ICCUBEA 2025 and 2026
 - 🏅 Department Rank 3 – T.Y. B.Tech (ENTC Engineering)
 - 📄 Published IEEE research on automated image-driven industrial quality control.
 - 👨‍💻 Actively building and exploring AI/ML and software engineering projects.
