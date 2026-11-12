@@ -28,7 +28,7 @@ Beyond AI/ML, I have a strong foundation in Data Structures and Algorithms, Obje
 - **Computer Vision:** OpenCV, Image Processing, Object Detection, Image Classification
 - **Generative AI:** LLMs, LangChain, LangGraph, RAG, Stable Diffusion
 - **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Data Analysis
-- **Software Engineering:** OOP, DSA, REST APIs, API Integration, Git, GitHub
+- **Software Engineering:** OOPs, REST APIs, API Integration, Git, GitHub
 - **Tools:** Jupyter Notebook, VS Code, Power BI, MATLAB, Simulink
 
 ---
